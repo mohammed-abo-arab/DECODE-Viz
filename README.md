@@ -22,3 +22,22 @@ DECODE-Viz employs a robust architecture that integrates the following component
 - **DICOM Image Processing**: Powered by Cornerstone.js, enabling sophisticated DICOM image analysis.
 - **Data Storage**: Utilizes IndexedDB via Dexie for efficient, low-level data management in the browser.
 - **Cross-Browser Compatibility**: Ensures optimal performance across various platforms, including desktops, tablets, and mobile devices.
+
+## Installation
+
+To install and run DECODE-Viz locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/mohammed-abo-arab/DECODE-Viz.git
+2. **Navigate to the project directory**:
+   ````bash
+   cd DECODE-Viz
+3. **Install dependencies**:
+   ````bash
+   npm install
+4. **Run the development server**:
+   ````bash
+   npm start
+
+**The application will be available at http://localhost:3000**.
