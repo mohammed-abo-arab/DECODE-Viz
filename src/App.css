@@ -1,0 +1,9 @@
+/* CSS rule for styling an element with class 'layout-grid' */
+.layout-grid {
+  display: grid; /* Sets the display property to 'grid', enabling grid layout for the element */
+}
+/* Style for the logo image */
+.navbar__top__logo__image {
+  max-width: 60px;
+  max-height: 60px;
+}
